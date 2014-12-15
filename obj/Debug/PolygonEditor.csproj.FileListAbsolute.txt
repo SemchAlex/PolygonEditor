@@ -1,0 +1,73 @@
+c:\users\adminn\documents\visual studio 2013\Projects\PolygonEditor\PolygonEditor\bin\Debug\PolygonEditor.exe.config
+c:\users\adminn\documents\visual studio 2013\Projects\PolygonEditor\PolygonEditor\bin\Debug\PolygonEditor.exe
+c:\users\adminn\documents\visual studio 2013\Projects\PolygonEditor\PolygonEditor\bin\Debug\PolygonEditor.pdb
+c:\users\adminn\documents\visual studio 2013\Projects\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.csprojResolveAssemblyReference.cache
+c:\users\adminn\documents\visual studio 2013\Projects\PolygonEditor\PolygonEditor\obj\Debug\App.g.cs
+c:\users\adminn\documents\visual studio 2013\Projects\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor_MarkupCompile.cache
+c:\users\adminn\documents\visual studio 2013\Projects\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.g.resources
+c:\users\adminn\documents\visual studio 2013\Projects\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.Properties.Resources.resources
+c:\users\adminn\documents\visual studio 2013\Projects\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.csproj.GenerateResource.Cache
+c:\users\adminn\documents\visual studio 2013\Projects\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.exe
+c:\users\adminn\documents\visual studio 2013\Projects\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.pdb
+C:\Users\adminn\Documents\Visual Studio 2013\Projects\PolygonEditor\PolygonEditor\obj\Debug\AppControl\ColorEdit.baml
+C:\Users\adminn\Documents\Visual Studio 2013\Projects\PolygonEditor\PolygonEditor\obj\Debug\AppControl\ColorEdit.g.cs
+C:\Users\adminn\Documents\Visual Studio 2013\Projects\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor_MarkupCompile.lref
+C:\Users\adminn\Documents\Visual Studio 2013\Projects\PolygonEditor\PolygonEditor\bin\Debug\EntityFramework.dll
+C:\Users\adminn\Documents\Visual Studio 2013\Projects\PolygonEditor\PolygonEditor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adminn\Documents\Visual Studio 2013\Projects\PolygonEditor\PolygonEditor\bin\Debug\EntityFramework.xml
+C:\Users\adminn\Documents\Visual Studio 2013\Projects\PolygonEditor\PolygonEditor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adminn\Documents\Visual Studio 2013\Projects\PolygonEditor\PolygonEditor\obj\Debug\View\MainWindow.g.cs
+C:\Users\adminn\Documents\Visual Studio 2013\Projects\PolygonEditor\PolygonEditor\obj\Debug\View\MainWindow.baml
+C:\Users\adminn\Documents\Visual Studio 2013\Projects\PolygonEditor\PolygonEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\work\tests\PolygonEditor\PolygonEditor\bin\Debug\PolygonEditor.exe.config
+D:\work\tests\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.exe
+D:\work\tests\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.pdb
+D:\work\tests\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.csprojResolveAssemblyReference.cache
+D:\work\tests\PolygonEditor\PolygonEditor\obj\Debug\AppControl\ColorEdit.baml
+D:\work\tests\PolygonEditor\PolygonEditor\obj\Debug\AppControl\ColorEdit.g.cs
+D:\work\tests\PolygonEditor\PolygonEditor\obj\Debug\View\MainWindow.g.cs
+D:\work\tests\PolygonEditor\PolygonEditor\obj\Debug\App.g.cs
+D:\work\tests\PolygonEditor\PolygonEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\work\tests\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor_MarkupCompile.cache
+D:\work\tests\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor_MarkupCompile.lref
+D:\work\tests\PolygonEditor\PolygonEditor\bin\Debug\PolygonEditor.exe
+D:\work\tests\PolygonEditor\PolygonEditor\bin\Debug\PolygonEditor.pdb
+D:\work\tests\PolygonEditor\PolygonEditor\bin\Debug\EntityFramework.dll
+D:\work\tests\PolygonEditor\PolygonEditor\bin\Debug\EntityFramework.SqlServer.dll
+D:\work\tests\PolygonEditor\PolygonEditor\bin\Debug\EntityFramework.xml
+D:\work\tests\PolygonEditor\PolygonEditor\bin\Debug\EntityFramework.SqlServer.xml
+D:\work\tests\PolygonEditor\PolygonEditor\obj\Debug\View\MainWindow.baml
+D:\work\tests\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.g.resources
+D:\work\tests\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.Properties.Resources.resources
+D:\work\tests\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.csproj.GenerateResource.Cache
+D:\work\tests\PolygonEditor\PolygonEditor\obj\Debug\View\PolygonEdit.baml
+D:\work\tests\PolygonEditor\PolygonEditor\obj\Debug\View\PolygonEdit.g.cs
+C:\Users\adminn\Documents\Visual Studio 2013\Projects\PolygonEditor\PolygonEditor\obj\Debug\View\PolygonEdit.g.cs
+C:\Users\adminn\Documents\Visual Studio 2013\Projects\PolygonEditor\PolygonEditor\obj\Debug\View\PolygonEdit.baml
+D:\work\tests\PolWihtOutPoint\PolygonEditor\PolygonEditor\bin\Debug\PolygonEditor.exe.config
+D:\work\tests\PolWihtOutPoint\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.exe
+D:\work\tests\PolWihtOutPoint\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.pdb
+D:\work\tests\PolWihtOutPoint\PolygonEditor\PolygonEditor\bin\Debug\PolygonEditor.exe
+D:\work\tests\PolWihtOutPoint\PolygonEditor\PolygonEditor\bin\Debug\PolygonEditor.pdb
+D:\work\tests\PolWihtOutPoint\PolygonEditor\PolygonEditor\bin\Debug\EntityFramework.dll
+D:\work\tests\PolWihtOutPoint\PolygonEditor\PolygonEditor\bin\Debug\EntityFramework.SqlServer.dll
+D:\work\tests\PolWihtOutPoint\PolygonEditor\PolygonEditor\bin\Debug\EntityFramework.xml
+D:\work\tests\PolWihtOutPoint\PolygonEditor\PolygonEditor\bin\Debug\EntityFramework.SqlServer.xml
+D:\work\tests\PolWihtOutPoint\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.csprojResolveAssemblyReference.cache
+D:\work\tests\PolWihtOutPoint\PolygonEditor\PolygonEditor\obj\Debug\AppControl\ColorEdit.baml
+D:\work\tests\PolWihtOutPoint\PolygonEditor\PolygonEditor\obj\Debug\AppControl\ColorEdit.g.cs
+D:\work\tests\PolWihtOutPoint\PolygonEditor\PolygonEditor\obj\Debug\View\MainWindow.g.cs
+D:\work\tests\PolWihtOutPoint\PolygonEditor\PolygonEditor\obj\Debug\View\PolygonEdit.g.cs
+D:\work\tests\PolWihtOutPoint\PolygonEditor\PolygonEditor\obj\Debug\App.g.cs
+D:\work\tests\PolWihtOutPoint\PolygonEditor\PolygonEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\work\tests\PolWihtOutPoint\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor_MarkupCompile.cache
+D:\work\tests\PolWihtOutPoint\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor_MarkupCompile.lref
+D:\work\tests\PolWihtOutPoint\PolygonEditor\PolygonEditor\obj\Debug\View\MainWindow.baml
+D:\work\tests\PolWihtOutPoint\PolygonEditor\PolygonEditor\obj\Debug\View\PolygonEdit.baml
+D:\work\tests\PolWihtOutPoint\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.g.resources
+D:\work\tests\PolWihtOutPoint\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.Properties.Resources.resources
+D:\work\tests\PolWihtOutPoint\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.csproj.GenerateResource.Cache
+C:\Users\adminn\Documents\Visual Studio 2013\Projects\PolygonEditor\PolygonEditor\obj\Debug\AppControl\EditablePolygon.baml
+C:\Users\adminn\Documents\Visual Studio 2013\Projects\PolygonEditor\PolygonEditor\obj\Debug\AppControl\EditablePolygon.g.cs
+D:\work\tests\PolygonEditor\PolygonEditor\obj\Debug\AppControl\EditablePolygon.baml
+D:\work\tests\PolygonEditor\PolygonEditor\obj\Debug\AppControl\EditablePolygon.g.cs

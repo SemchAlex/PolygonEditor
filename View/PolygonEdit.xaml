@@ -1,0 +1,52 @@
+﻿<Window xmlns:AppControl="clr-namespace:PolygonEditor.AppControl"  x:Name="PolygonEditWindow" x:Class="PolygonEditor.View.PolygonEdit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:helper="clr-namespace:PolygonEditor.Helper"
+        helper:DialogCloser.DialogResult="{Binding DialogResult}"
+        Title="Створення полігона" Height="200" Width="380" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0" Grid.Row="0">
+            <Label Content="Назва" HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="14"  FontFamily="Stencil"/>
+        </Grid>
+        <Grid Grid.Column="0" Grid.Row="1">
+            <Label Content="Палітра" HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="14"  FontFamily="Stencil"/>
+        </Grid>
+        <Grid Grid.Column="0" Grid.Row="2">
+            <Label Content="К-сть вершин" HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="14"  FontFamily="Stencil"/>
+        </Grid>
+        <Grid Grid.Column="1" Grid.Row="0">
+            <TextBox TextAlignment="Left" Margin="4" FontSize="14" AcceptsReturn="True" MaxLength="50" MaxLines="1" MinLines="1" Text="{Binding PolygonItem.Name}"/>
+        </Grid>
+        <Grid Grid.Column="1" Grid.Row="2">
+            <AppControl:NumericTextBox TextAlignment="Left" Margin="4" FontSize="14" AcceptsReturn="True" MaxLength="2" MaxLines="1" MinLines="1" Text="{Binding PolygonItem.PointCount}"/>
+        </Grid>
+        <Grid Grid.Column="1" Grid.Row="1">
+            <AppControl:ColorEdit  x:Name="CEditControl"  ColorValue="{Binding DataContext.PolygonItem.ColorBrush,ElementName=PolygonEditWindow}" Margin="4" IsTabStop="True"/>
+        </Grid>
+
+        <Grid Grid.Column="1" Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Button Content="Скасувати" Margin="4" FontSize="14" FontFamily="Stencil" IsCancel="True" />
+            </Grid>
+            <Grid Grid.Column="1">
+                <Button Content="Створити" Margin="4" FontSize="14" FontFamily="Stencil" IsDefault="True" Command="{Binding SaveCommand}"/>
+            </Grid>
+        </Grid>
+
+    </Grid>
+</Window>
